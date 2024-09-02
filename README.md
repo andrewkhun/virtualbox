@@ -68,3 +68,7 @@ As you can see below, here we can specify the amount of memory and CPUs to provi
 Here you can specify the amount of Hard Disk for the Virtual Machine. We will leave it at 50 GB as this will be more than enough for our purposes.
 
 <img src="https://i.imgur.com/HB9MiiU.png" height="70%" width="70%" alt="VirtualBox downloads"/>
+
+The Summary should look something similar to this. If everything looks good, click Finish to complete our Virtual Machine.
+
+<img src="https://i.imgur.com/t3eK8a2.png" height="70%" width="70%" alt="VirtualBox downloads"/>
