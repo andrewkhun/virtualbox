@@ -37,17 +37,17 @@ Now that we have VirtualBox and Windows Server 2022 downloaded, let's install an
 
 Navigate to the file location of your downloads and double click the VirtualBox setup wizard. Click Next and Yes where appropriate to install VirtualBox.  
 
-<img src="https://imgur.com/T05BGYo" height="70%" width="70%" alt="VirtualBox downloads"/>
+<img src="https://imgur.com/T05BGYo.png" height="70%" width="70%" alt="VirtualBox downloads"/>
 
-<img src="https://imgur.com/BRFJn1g" height="70%" width="70%" alt="VirtualBox downloads"/>
+<img src="https://imgur.com/BRFJn1g.png" height="70%" width="70%" alt="VirtualBox downloads"/>
 
-<img src="https://imgur.com/OHNBjES" height="70%" width="70%" alt="VirtualBox downloads"/>
+<img src="https://imgur.com/OHNBjES.png" height="70%" width="70%" alt="VirtualBox downloads"/>
 
-<img src="https://imgur.com/jt9krfi" height="70%" width="70%" alt="VirtualBox downloads"/>
+<img src="https://imgur.com/jt9krfi.png" height="70%" width="70%" alt="VirtualBox downloads"/>
 
 After the final Next, VirtualBox should be successfully installed! Launch it and you will be taken to the VirtualBox Manager
 
-<img src="https://imgur.com/eMlnGjD" height="70%" width="70%" alt="VirtualBox downloads"/>
+<img src="https://imgur.com/eMlnGjD.png" height="70%" width="70%" alt="VirtualBox downloads"/>
 
 Now that we have VirtualBox installed, let's set up a Windows Server 2022 Virtual Machine!
 
