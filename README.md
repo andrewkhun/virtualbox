@@ -102,5 +102,18 @@ Click next to install the operating system to our hard drive. Then Windows will 
 
 <img src="https://i.imgur.com/U4FhbKM.png" height="70%" width="70%" alt="VirtualBox downloads"/>
 
+After the operating system has finished installing, the VM will restart. During the restart, in the bottom right of the VirtualBox Window, right-click the image of a disk, and click "Remove Disk from  Virtual Drive" as we no longer need it to continue. 
 
+<img src="https://i.imgur.com/GT33c7W.png" height="30%" width="30%" alt="VirtualBox downloads"/>
 
+Windows will then continue and prompt for you to create a password. Input an appropriate password and make sure to remember it! After clicking finish, you will be prompted to login.
+
+<img src="https://i.imgur.com/WQiqmFO.png" height="70%" width="70%" alt="VirtualBox downloads"/>
+
+<img src="https://i.imgur.com/9YaOP6d.png" height="70%" width="70%" alt="VirtualBox downloads"/>
+
+Once on the Desktop, Windows Server Manager will open. Congratulations you have successfully installed VirtualBox and created a Windows Server 2022 Virtual Machine!
+
+<img src="https://i.imgur.com/W8RercJ.png" height="70%" width="70%" alt="VirtualBox downloads"/>
+
+With your initial knowledge of VirtualBox and Virtual Machines, we can now begin creating a home lab with additional virtual machines!
