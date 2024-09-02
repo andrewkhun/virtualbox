@@ -72,3 +72,35 @@ Here you can specify the amount of Hard Disk for the Virtual Machine. We will le
 The Summary should look something similar to this. If everything looks good, click Finish to complete our Virtual Machine.
 
 <img src="https://i.imgur.com/t3eK8a2.png" height="70%" width="70%" alt="VirtualBox downloads"/>
+
+Our Virtual Machine has been created but there is one last step; Windows Server 2022 Setup! 
+
+
+## Windows Server 2022 Setup
+
+Back in the VirtualBox Manager, we can see our VM now populated on the left hand side. Click the VM and then click Start in order to boot up the virtual machine.
+
+<img src="https://i.imgur.com/RAzhcPt.png" height="70%" width="70%" alt="VirtualBox downloads"/>
+
+The VM will begin to boot up and a new window will appear. Here we can begin the setup process for Windows. Select the appropriate language, click Next, then Install Now.
+
+<img src="https://i.imgur.com/kXjyonN.png" height="70%" width="70%" alt="VirtualBox downloads"/>
+
+<img src="https://i.imgur.com/h8wfbDr.png" height="70%" width="70%" alt="VirtualBox downloads"/>
+
+Below you can see multiple options for our Operating System. The one we want to select is the Standard Evaluation (Desktop Experience) version. This will allow us to use an actual Windows Desktop GUI for our server as opposed to a Non-Desktop experience which would only provide us a command line terminal to navigate the server.
+
+<img src="https://i.imgur.com/CFBZeSs.png" height="70%" width="70%" alt="VirtualBox downloads"/>
+
+After selecting the operating system, select Custom in order to install the operating system. 
+
+<img src="https://i.imgur.com/XLL5Q8O.png" height="70%" width="70%" alt="VirtualBox downloads"/>
+
+Click next to install the operating system to our hard drive. Then Windows will begin installing!
+
+<img src="https://i.imgur.com/LZ5G8qQ.png" height="70%" width="70%" alt="VirtualBox downloads"/>
+
+<img src="https://i.imgur.com/U4FhbKM.png" height="70%" width="70%" alt="VirtualBox downloads"/>
+
+
+
