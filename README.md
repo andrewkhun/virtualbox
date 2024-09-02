@@ -53,3 +53,18 @@ Now that we have VirtualBox installed, let's set up a Windows Server 2022 Virtua
 
 ## Windows Server 2022 Configuration
 
+On the VirtualBox Manager, click "New" in order to create a new Virtual Machine. A window should appear where we can name our Virtual Machine, specify a folder path, and load our ISO image of Server 2022.
+
+<img src="https://i.imgur.com/Qf3BiSO.png" height="70%" width="70%" alt="VirtualBox downloads"/>
+
+We will name this Virutal Machine "Server 2022 Lab". Place the VM in a folder path you are satisfied with then for ISO Image, click the arrow to open the drop down menu and click "Other". Navigate to the ISO we downloaded earlier and select it. Finally make sure the "Skip Unattended Install" is checked and click Next to continue.
+
+<img src="https://i.imgur.com/by3kmLi.png" height="70%" width="70%" alt="VirtualBox downloads"/>
+
+As you can see below, here we can specify the amount of memory and CPUs to provide the Virtual Machine. For the purposes of this lab we will allocate 4 GB of memory and 2 CPUs. The amount may differ depending on your local machine's specifications. Click Next when ready.
+
+<img src="https://i.imgur.com/iCppK4m.png" height="70%" width="70%" alt="VirtualBox downloads"/>
+
+Here you can specify the amount of Hard Disk for the Virtual Machine. We will leave it at 50 GB as this will be more than enough for our purposes.
+
+<img src="https://i.imgur.com/HB9MiiU.png" height="70%" width="70%" alt="VirtualBox downloads"/>
