@@ -117,3 +117,7 @@ Once on the Desktop, Windows Server Manager will open. Congratulations you have 
 <img src="https://i.imgur.com/W8RercJ.png" height="70%" width="70%" alt="VirtualBox downloads"/>
 
 With your initial knowledge of VirtualBox and Virtual Machines, we can now begin creating a home lab with additional virtual machines!
+
+## Continue here to Install Active Directory
+
+[Installing Active Directory on Windows Server 2022](https://github.com/andrewkhun/install-ad/)
