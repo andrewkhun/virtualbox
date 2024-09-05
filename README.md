@@ -2,6 +2,9 @@
 
 The objective of this lab is to install VirtualBox so that we can create a Virtual Machine for Windows Server 2022 and ultimately install Active Directory and explore other IT tools!  
 
+Please note, this series of labs are based on KevTech's Entry Level Helpdesk series on youtube. Please check it out if you would like a video guide on how to do these labs: 
+[IT: Entry Level Helpdesk Playlist](https://youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht&si=E93FmYG2zTlWnjDy)
+
 ## Technologies Used
 
 - VirtualBox
